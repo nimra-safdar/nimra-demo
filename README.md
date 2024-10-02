@@ -1,3 +1,4 @@
 # nimra-demo
-This si my firat peohect of gitHu
-Author- Nimra
+This si my firat peohect of gitHub.
+<br>
+<b>Author- Nimra</b>
