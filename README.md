@@ -1,4 +1,4 @@
 # nimra-demo
-This si my firat peohect of gitHub.
+This is my first project of gitHub.
 <br>
 <b>Author- Nimra</b>
